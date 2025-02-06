@@ -111,7 +111,7 @@ def enviar_email(mensagem):
     Envia um e-mail de alerta com a mensagem fornecida.
     """
     email_remetente = "devbackendpythonflask@gmail.com"  
-    senha = "43996457979"  
+    senha = "minha senha"  
     email_destinatario = "devbackendpythonflask@gmail.com"  
 
     msg = MIMEMultipart()  # Criando o objeto de mensagem
